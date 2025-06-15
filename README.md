@@ -11,6 +11,9 @@
   <a href="mailto:don.lakmal.weerasinghe@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail" alt="Email">
   </a>
+  <a href="https://lakmalweerasinghe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=google-chrome" alt="Website">
+  </a>
 </p>
 
 ---
