@@ -75,4 +75,4 @@ Hall-effect based tactile sensing for robotic grippers with real-time deformatio
 
 ---
 
-> *"Build fast, debug smart, document everything."*
+> *“Talk is cheap. Show me the code.” — Linus Torvalds*
