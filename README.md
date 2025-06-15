@@ -39,7 +39,7 @@ Embedded-systems specialist with **8 years** building real-time, high-reliabilit
 
 ### 🏢 Current Role
 **Electronics Engineer / Software Developer — HITEC Sensor Developments (Pvt.) Ltd.**  
-`Research and Development Department - Sep 2023 – Present`  
+`Research and Development Department — Sep 2023—Present`  
 - Lead firmware architecture for industrial-grade sensor platforms (STM32 & Nordic nRF).  
 - Design EMI-robust multilayer PCBs (Altium) and automated calibration rigs (Controlling Pneumatic & Hydraulic Systems using ESP32).  
 - Deliver MQTT/Bluetooth-enabled devices with MS SQL-backed diagnostics.  
