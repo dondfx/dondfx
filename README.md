@@ -27,12 +27,12 @@ Embedded-systems specialist with **8 years** building real-time, high-reliabilit
 | Domain | Highlights |
 | :--- | :--- |
 | **Firmware & RTOS** | C/C++, FreeRTOS, Zephyr |
-| **MCUs & SoCs** | STM32, ESP32, Nordic nRF, PIC, AVR |
-| **Connectivity & Protocols** | CAN/CANopen, Modbus, UART / SPI / I²C, MQTT, BLE, Wi-Fi |
+| **MCUs & SoCs** | PIC, AVR, STM32, ESP32, Nordic nRF |
+| **Connectivity & Protocols** | UART / SPI / I²C, Modbus, CAN/CANopen, MQTT, BLE, Wi-Fi |
 | **PCB Design** | Multilayer boards (Altium, Proteus), EMC-aware layouts |
 | **Full-Stack&nbsp;& Apps** | HTML, CSS, JavaScript, Python, C# (.NET Framework / Core), MS SQL |
-| **Build / Toolchain & DevOps** | PlatformIO, Git, Visual Studio, VS Code, PyCharm, SQL Server Mgmt Studio, Cloudflare Workers |
-| **Automation & SCADA** | Siemens S7 PLCs, TIA Portal, WinCC, Ladder Logic, Factory I/O |
+| **Build / Toolchain & DevOps** | PlatformIO, Git, Visual Studio, VS Code, PyCharm, SQL Server Mgmt Studio, Cloudflare |
+| **Automation & SCADA** | Siemens S7 PLCs, TIA Portal (Ladder Logic), WinCC, Factory I/O |
 | **CAD & Simulation** | SOLIDWORKS, MATLAB |
 
 ---
@@ -41,7 +41,7 @@ Embedded-systems specialist with **8 years** building real-time, high-reliabilit
 **Electronics Engineer / Software Developer — HITEC Sensor Developments Inc.**  
 `Research and Development Department - Sep 2023 – Present`  
 - Lead firmware architecture for industrial-grade sensor platforms (STM32 & Nordic nRF).  
-- Design EMI-robust multilayer PCBs and automated calibration rigs.  
+- Design EMI-robust multilayer PCBs (Altium) and automated calibration rigs (Controlling Pneumatic & Hydraulic Systems using ESP32).  
 - Deliver MQTT/Bluetooth-enabled devices with MS SQL-backed diagnostics.  
 - Implement Wi-Fi OTA pipelines and serverless alerting with Cloudflare Workers.
 
