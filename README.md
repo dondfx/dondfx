@@ -26,14 +26,14 @@ Embedded-systems specialist with **8 years** building real-time, high-reliabilit
 ### 🛠️ Technical Toolbox
 | Domain | Highlights |
 | :--- | :--- |
-| **Full-Stack&nbsp;& Apps** | HTML, CSS, JavaScript, Python, C# (.NET Framework / Core), MS SQL |
 | **Firmware & RTOS** | C/C++, FreeRTOS, Zephyr |
 | **MCUs & SoCs** | STM32, ESP32, Nordic nRF, PIC, AVR |
 | **Connectivity & Protocols** | CAN/CANopen, Modbus, UART / SPI / I²C, MQTT, BLE, Wi-Fi |
 | **PCB Design** | Multilayer boards (Altium, Proteus), EMC-aware layouts |
+| **Full-Stack&nbsp;& Apps** | HTML, CSS, JavaScript, Python, C# (.NET Framework / Core), MS SQL |
+| **Build / Toolchain & DevOps** | PlatformIO, Git, Visual Studio, VS Code, PyCharm, SQL Server Mgmt Studio, Cloudflare Workers |
 | **Automation & SCADA** | Siemens S7 PLCs, TIA Portal, WinCC, Ladder Logic, Factory I/O |
 | **CAD & Simulation** | SOLIDWORKS, MATLAB |
-| **Build / Toolchain & DevOps** | PlatformIO, Git, Visual Studio, VS Code, PyCharm, SQL Server Mgmt Studio, Cloudflare Workers |
 
 ---
 
