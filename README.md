@@ -31,7 +31,7 @@ Embedded-systems specialist with **8 years** building real-time, high-reliabilit
 | **Connectivity & Protocols** | UART / SPI / I²C, Modbus, CAN/CANopen, MQTT, BLE, Wi-Fi |
 | **PCB Design** | Multilayer boards (Altium, Proteus), EMC-aware layouts |
 | **Full-Stack&nbsp;& Apps** | HTML, CSS, JavaScript, Python, C# (.NET Framework / Core), MS SQL |
-| **Build / Toolchain & DevOps** | PlatformIO, Git, Visual Studio, VS Code, PyCharm, SQL Server Mgmt Studio, Cloudflare |
+| **Build / Toolchain & DevOps** | Visual Studio (C++/C#), VS Code (C/C++/Python, PlatformIO/ESP-IDF/Nordic nRF SDK), PyCharm, SQL Server Mgmt Studio, Cloudflare |
 | **Automation & SCADA** | Siemens S7 PLCs, TIA Portal (Ladder Logic), WinCC, Factory I/O |
 | **CAD & Simulation** | SOLIDWORKS, MATLAB |
 
