@@ -1,47 +1,74 @@
-# Hi there, I’m Lakmal Weerasinghe 👋  
+<h1 align="center">👋 Hi, I'm Lakmal Weerasinghe</h1>
+<h3 align="center">🔧 Embedded Systems Engineer&nbsp;| Firmware Developer&nbsp;| Industrial IoT&nbsp;| PCB & Automation Specialist</h3>
 
-🚀 **Embedded Systems Engineer | Firmware Specialist | Industrial IoT Architect**
-
----
-
-### 🧑‍💻 About Me
-I design and deliver high-reliability embedded platforms for industrial and aerospace-adjacent sensors, writing bare-metal & RTOS-based C/C++ on STM32, ESP32, and Nordic nRF micro-controllers, then wiring them into factory automation and cloud back-ends.:contentReference[oaicite:0]{index=0}  
-
----
-
-### 🛠️ Core Skill Set  
-- **Firmware & MCU** ∙ STM32, ESP32, Nordic nRF, PIC, AVR ∙ C/C++ ∙ FreeRTOS & Zephyr:contentReference[oaicite:1]{index=1}  
-- **Connectivity & Protocols** ∙ SPI, I²C, UART, CAN/CANopen, Modbus, MQTT, BLE, WebSockets:contentReference[oaicite:2]{index=2}  
-- **Hardware Design** ∙ Multi-layer PCBs in Altium with EMC & analog/digital isolation best-practices:contentReference[oaicite:3]{index=3}  
-- **Industrial Automation** ∙ Siemens S7 PLCs ∙ TIA Portal / WinCC SCADA integration:contentReference[oaicite:4]{index=4}  
-- **Dev Ops & Tooling** ∙ Python test tooling & Bootstrap GUIs ∙ Git ∙ MS SQL telemetry pipelines:contentReference[oaicite:5]{index=5}  
+<p align="center">
+  <a href="https://linkedin.com/in/don-lakmal-weerasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://orcid.org/0000-0004-1372-0207" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0000--0004--1372--0207-a6ce39?style=flat&logo=orcid" alt="ORCID">
+  </a>
+  <a href="mailto:don.lakmal.weerasinghe@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ---
 
-### 💼 Experience Highlights  
-
-| Period | Role & Organisation | Key Impact |
-|--------|--------------------|------------|
-| **Sep 2023 - Present** | **Electronic Engineer / Software Developer**<br>HITEC Sensor Developments, Inc. | • Led real-time firmware & multi-layer PCB design for next-gen force & crash-test sensors<br>• Added OTA, MQTT & BLE connectivity for remote diagnostics<br>• Automated calibration & endurance rigs for production efficiency:contentReference[oaicite:6]{index=6} |
-| **Apr 2021 - Sep 2023** | **Automation Consultant**<br>Arthur C. Clarke Institute | • Shipped PLC-driven control systems & SCADA dashboards<br>• Trained engineers on modern industrial automation practices:contentReference[oaicite:7]{index=7} |
+### 👨‍💻 Who I Am
+Embedded-systems specialist with **8 years** building real-time, high-reliability hardware & firmware for industrial, aerospace-adjacent, and IoT products — from concept to production.  
+I thrive at the intersection of **robust electronics**, **deterministic software**, and **factory-floor automation**.
 
 ---
 
-### 🎓 Education  
+### 🛠️ Technical Toolbox
+| Domain | Highlights |
+| :--- | :--- |
+| **Firmware & RTOS** | C/C++, FreeRTOS, Zephyr, OTA, deterministic task design |
+| **MCUs** | STM32, ESP32, Nordic nRF, PIC/AVR |
+| **Connectivity** | CAN (CAN-Open), Modbus, UART/SPI/I²C, MQTT, BLE, Wi-Fi |
+| **Hardware** | Altium multilayer PCBs, EMC compliance, analog/digital mixed-signal |
+| **Automation** | Siemens S7 PLCs, TIA Portal, WinCC, Factory I/O |
+| **Build & Toolchain** | PlatformIO, Git, Python + Bootstrap GUIs, Cloudflare Workers, MS SQL |
+
+---
+
+### 🏢 Current Role
+**Electronics Engineer / Software Developer — HITEC Sensor Developments Inc.**  
+`Research and Development Department - Sep 2023 – Present`  
+- Lead firmware architecture for industrial-grade sensor platforms (STM32 & Nordic nRF).  
+- Design EMI-robust multilayer PCBs and automated calibration rigs.  
+- Deliver MQTT/Bluetooth-enabled devices with MS SQL-backed diagnostics.  
+- Implement Wi-Fi OTA pipelines and serverless alerting with Cloudflare Workers.
+
+---
+
+### 🔄 Previous Experience (Snapshot)
+- **Automation Consultant — Arthur C. Clarke Institute (2021-2023)**  
+  Deployed Siemens PLC/SCADA solutions and trained engineers.  
+- **Freelance Embedded & PCB Designer (2018 – 2021)**  
+  Delivered custom multilayer PCBs, real-time C/C++ firmware, and CAD assemblies for robotics, IoT, and industrial clients.
+- **Robotics Researcher — University of Moratuwa (2017 – 2018)**  
+  Investigated soft tactile sensors and autonomous grasping; built gripper prototypes and control firmware for academic projects.
+
+---
+
+### 📚 Research & Publications
+*Development and Characterization of a Soft Tactile Sensor Array Used for Parallel Grippers* — IEEE MERCon 2018.  
+Hall-effect based tactile sensing for robotic grippers with real-time deformation mapping.  
+
+---
+
+### 🎓 Education
 - **M.Sc. Mechanical Engineering** — University of Moratuwa  
-- **B.Sc. Mechanical Engineering** — University of Moratuwa:contentReference[oaicite:8]{index=8}  
+- **B.Sc. Mechanical Engineering (Hons.)** — University of Moratuwa  
 
 ---
 
-### 🌱 Learning Now
-Bringing FPGA logic & high-speed signal processing into my designs (currently deep-diving VHDL).:contentReference[oaicite:9]{index=9}  
+### 🤝 Let’s Connect
+💌 **don.lakmal.weerasinghe@outlook.com**  
+🔗 [LinkedIn](https://linkedin.com/in/don-lakmal-weerasinghe)
 
 ---
 
-### 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/don-lakmal-weerasinghe)  
-📫 **Email:** don.lakmal.weerasinghe@outlook.com  
-
----
-
-_Always open to tackling tough embedded challenges where small footprints meet big ideas._  
+> *“Build fast, debug smart, document everything.”*
