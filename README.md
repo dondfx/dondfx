@@ -2,6 +2,9 @@
 <h3 align="center">🔧 Embedded Systems Engineer&nbsp;| Firmware Developer&nbsp;| Industrial IoT&nbsp;| PCB & Automation Specialist</h3>
 
 <p align="center">
+  <a href="https://lakmalweerasinghe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=google-chrome" alt="Website">
+  </a>
   <a href="https://linkedin.com/in/don-lakmal-weerasinghe" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
@@ -10,9 +13,6 @@
   </a>
   <a href="mailto:don.lakmal.weerasinghe@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://lakmalweerasinghe.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-orange?style=flat&logo=google-chrome" alt="Website">
   </a>
 </p>
 
